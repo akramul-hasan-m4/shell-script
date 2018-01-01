@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # take username
 echo "Enter username: "
 read username
