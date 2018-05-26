@@ -136,6 +136,8 @@ This script file can help you perform the following tasks:
 --validate  Validate the checksum
 --about     Show the about information.
 Type --help [command] for more information.
-Example: --help validate
+
+Example:
+--validate sha256 /path/to/file.txt hash_value_of_file
 "
 fi
